@@ -125,17 +125,21 @@ section {
 /* ===== ABOUT ===== */
 
 .about {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: rgb(57, 7, 7);
     background-color: #111827;
+    
 }
 
 .about-content {
     max-width: 800px;
     margin: auto;
-    text-align: center;
+    text-align:left;
 }
 
 .about-content p {
-    color: #cbd5e1;
+    color: #54594a;
     font-size: 18px;
 }
 
